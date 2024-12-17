@@ -1,0 +1,67 @@
+tetris_autogen/timestamp: \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeParseArguments.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Compiler/AppleClang-C.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Compiler/AppleClang-CXX.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Compiler/Clang.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Apple-AppleClang-C.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Apple-AppleClang-CXX.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Apple-Clang-C.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Apple-Clang-CXX.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Apple-Clang.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Darwin-Initialize.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/Darwin.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/share/cmake-3.30/Modules/Platform/UnixPaths.cmake \
+	/Users/mockingb/Downloads/tetris_snake\ (extract.me)/brick_game/tetris/tetris_lib.c \
+	/Users/mockingb/Downloads/tetris_snake\ (extract.me)/brick_game/tetris/tetris_lib.h \
+	/Users/mockingb/Downloads/tetris_snake\ (extract.me)/brick_game/tetris/tetris_objects.h \
+	/Users/mockingb/Downloads/tetris_snake\ (extract.me)/gui/desktop/CMakeLists.txt \
+	/Users/mockingb/Downloads/tetris_snake\ (extract.me)/gui/desktop/cmake-build-debug/CMakeFiles/3.30.5/CMakeCCompiler.cmake \
+	/Users/mockingb/Downloads/tetris_snake\ (extract.me)/gui/desktop/cmake-build-debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
+	/Users/mockingb/Downloads/tetris_snake\ (extract.me)/gui/desktop/cmake-build-debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5/Qt5Config.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5/Qt5ConfigVersion.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5/Qt5ModuleLocation.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Core/Qt5CoreConfig.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Core/Qt5CoreMacros.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QCocoaIntegrationPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QMacHeifPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QMacJp2Plugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake \
+	/usr/local/opt/qt@5/lib/cmake/Qt5Widgets/Qt5Widgets_QMacStylePlugin.cmake \
+	/Applications/CLion.app/Contents/bin/cmake/mac/x64/bin/cmake

@@ -1,0 +1,29 @@
+# ninja log v6
+3264	3331	1734441197892001547	brick_game_desktop	5dc384af7bf29f09
+9	620	1734441195201483193	/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/cmake-build-debug/brick_game_desktop_autogen/mocs_compilation.cpp	a09e90092567e7c7
+6	43	1734441194520244582	CMakeFiles/clean.additional	c67978ad94b3aa4b
+8	147	1734441194747605082	/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/cmake-build-debug/tetris_autogen/timestamp	de5240f8a8cb43d7
+620	3202	1734441195248114960	CMakeFiles/brick_game_desktop.dir/brick_game_desktop_autogen/mocs_compilation.cpp.o	30636e07695927d3
+624	3264	1734441195252538408	CMakeFiles/brick_game_desktop.dir/game_desktop_view.cpp.o	8526a7cded27a7e7
+622	3201	1734441195249670447	CMakeFiles/brick_game_desktop.dir/main.cpp.o	c5597aa46798a42e
+623	3244	1734441195251132301	CMakeFiles/brick_game_desktop.dir/menu_desktop_view.cpp.o	9c8fb250ee8534e5
+9	620	1734441195201483193	brick_game_desktop_autogen/timestamp	a09e90092567e7c7
+9	620	1734441195201483193	brick_game_desktop_autogen/mocs_compilation.cpp	a09e90092567e7c7
+6	589	1734442081249870031	build.ninja	b66a01fefdde985e
+43	55	1734441194557241082	clean	e625fed40095271c
+8	147	1734441194747605082	tetris_autogen/timestamp	de5240f8a8cb43d7
+8	147	1734441194747605082	tetris_autogen/mocs_compilation.cpp	de5240f8a8cb43d7
+8	147	1734441194747605082	/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/cmake-build-debug/tetris_autogen/mocs_compilation.cpp	de5240f8a8cb43d7
+148	205	1734441194775791269	CMakeFiles/tetris.dir/tetris_autogen/mocs_compilation.cpp.o	e97ec294cf094bc3
+9	620	1734441195201483193	/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/cmake-build-debug/brick_game_desktop_autogen/timestamp	a09e90092567e7c7
+148	251	1734441194776483230	CMakeFiles/tetris.dir/Users/mockingb/Downloads/tetris_snake_(extract.me)/brick_game/tetris/tetris_lib.c.o	7aa30e4be9e8397f
+251	350	1734441194879467535	lib/libtetris.dylib	b093fd4d75de22ec
+12	95	1734442087207555612	brick_game_desktop_autogen/timestamp	a09e90092567e7c7
+12	95	1734442087207555612	brick_game_desktop_autogen/mocs_compilation.cpp	a09e90092567e7c7
+12	95	1734442087207555612	/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/cmake-build-debug/brick_game_desktop_autogen/timestamp	a09e90092567e7c7
+12	95	1734442087207555612	/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/cmake-build-debug/brick_game_desktop_autogen/mocs_compilation.cpp	a09e90092567e7c7
+95	1723	1734442087289770131	CMakeFiles/brick_game_desktop.dir/brick_game_desktop_autogen/mocs_compilation.cpp.o	30636e07695927d3
+98	1723	1734442087292503126	CMakeFiles/brick_game_desktop.dir/main.cpp.o	c5597aa46798a42e
+101	1737	1734442087296301121	CMakeFiles/brick_game_desktop.dir/menu_desktop_view.cpp.o	9c8fb250ee8534e5
+106	1759	1734442087300562781	CMakeFiles/brick_game_desktop.dir/game_desktop_view.cpp.o	8526a7cded27a7e7
+1759	1830	1734442088953579621	brick_game_desktop	5dc384af7bf29f09

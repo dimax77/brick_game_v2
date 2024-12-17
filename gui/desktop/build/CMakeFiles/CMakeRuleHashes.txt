@@ -1,0 +1,7 @@
+# Hashes of file build rules.
+1b68910d2ddfd7337295d00497bf177c CMakeFiles/brick_game_desktop_autogen
+1b68910d2ddfd7337295d00497bf177c CMakeFiles/snake_autogen
+1b68910d2ddfd7337295d00497bf177c CMakeFiles/tetris_autogen
+1d0e7571860638c1e5d06632cc1c06d9 brick_game_desktop_autogen/timestamp
+8f039ec238de7b71cbdf439d89483492 snake_autogen/timestamp
+cc26ea209a395bde8eb57d13b87d812f tetris_autogen/timestamp

@@ -1,0 +1,11 @@
+/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/build/CMakeFiles/snake.dir
+/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/build/CMakeFiles/tetris.dir
+/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/build/CMakeFiles/brick_game_desktop.dir
+/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/build/CMakeFiles/edit_cache.dir
+/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/build/CMakeFiles/rebuild_cache.dir
+/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/build/CMakeFiles/snake_autogen_timestamp_deps.dir
+/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/build/CMakeFiles/snake_autogen.dir
+/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/build/CMakeFiles/tetris_autogen_timestamp_deps.dir
+/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/build/CMakeFiles/tetris_autogen.dir
+/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/build/CMakeFiles/brick_game_desktop_autogen_timestamp_deps.dir
+/Users/mockingb/Downloads/tetris_snake (extract.me)/gui/desktop/build/CMakeFiles/brick_game_desktop_autogen.dir
